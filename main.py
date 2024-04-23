@@ -2,7 +2,6 @@
 
 # Mutable and Immutable in Python
 
-
 # Mutable Datatypes : Yasto Datatypes jun Ki Change Garna sakinxa
 # examples
 # List
@@ -17,3 +16,6 @@
 # Floting Numbers 0.1
 #Boolien 
 #tupple
+
+
+
